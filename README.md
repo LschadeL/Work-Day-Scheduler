@@ -29,6 +29,7 @@
   ## Usage
 
   Use this repo if you want to quickly schedule your daily 9-5!
+  https://lschadel.github.io/Work-Day-Scheduler/
 
   ## License 📛 
 
